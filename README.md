@@ -7,7 +7,7 @@ An AI-powered full-stack web application that scrapes book data and provides int
 ![Dashboard]("C:\Users\DHEERAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 113104.png")
 
 ### Book Detail with AI Insights
-![Book Detail]("C:\Users\DHEERAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 113338.png")
+![Book Detail]("<img width="1286" height="960" alt="Image" src="https://github.com/user-attachments/assets/ba2f62e6-fdf7-408a-aa0a-2b81446dcd62" />g")
 
 ### Q&A Interface
 ![QA]("C:\Users\DHEERAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 113522.png")
