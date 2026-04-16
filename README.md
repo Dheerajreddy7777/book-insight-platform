@@ -4,13 +4,13 @@ An AI-powered full-stack web application that scrapes book data and provides int
 
 ## Screenshots
 ### Dashboard
-![Dashboard]("<img width="1724" height="949" alt="Image" src="https://github.com/user-attachments/assets/59cfe365-5966-43cd-a6d6-a597f4b547c6" />")
+![Dashboard](<img width="1724" height="949" alt="Image" src="https://github.com/user-attachments/assets/59cfe365-5966-43cd-a6d6-a597f4b547c6" />)
 
 ### Book Detail with AI Insights
-![Book Detail](<"img width="1286" height="960" alt="Image" src="https://github.com/user-attachments/assets/ba2f62e6-fdf7-408a-aa0a-2b81446dcd62" />")
+![Book Detail](<img width="1286" height="960" alt="Image" src="https://github.com/user-attachments/assets/31c80ec2-64a9-4dc7-ba6c-cdf376e917c6" />)
 
 ### Q&A Interface
-![QA]("<img width="1487" height="960" alt="Image" src="https://github.com/user-attachments/assets/4da3d188-d180-4f9c-b4d4-7bd20da0bb5b" />")
+![QA](<img width="1487" height="960" alt="Image" src="https://github.com/user-attachments/assets/4da3d188-d180-4f9c-b4d4-7bd20da0bb5b" />)
 
 ## Tech Stack
 - **Backend**: Django REST Framework, Python
