@@ -23,3 +23,42 @@ An AI-powered full-stack web application that scrapes book data and provides int
 
 ### Backend
 1. Install Python dependencies:
+pip install django djangorestframework mysqlclient selenium requests beautifulsoup4 chromadb sentence-transformers django-cors-headers
+2. Create MySQL database:
+```sql
+   CREATE DATABASE bookinsight;
+```
+3. Update `backend/bookinsight/bookinsight/settings.py` with your MySQL password
+4. Run migrations:
+python manage.py migrate
+5. Scrape books:
+python manage.py scrape_books
+6. Start server:
+python manage.py runserver
+
+### Frontend
+1. Install dependencies:
+cd frontend
+npm install
+2. Start development server:
+npm run dev
+
+### AI (LM Studio)
+1. Download LM Studio from https://lmstudio.ai
+2. Download `llama-3.2-1b-instruct` model
+3. Start local server on port 1234
+
+## API Documentation
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | /api/books/ | List all books |
+| GET | /api/books/{id}/ | Get book detail with AI insights |
+| POST | /api/books/add/ | Add a new book |
+| POST | /api/books/ask/ | Ask a question about books |
+| GET | /api/books/{id}/recommendations/ | Get book recommendations |
+
+## Sample Questions
+- "What is a good mystery book?"
+- "Tell me about Sapiens"
+- "Recommend a book about history"
