@@ -3,16 +3,14 @@
 An AI-powered full-stack web application that scrapes book data and provides intelligent insights using RAG and LLM integration.
 
 ## Screenshots
-
-
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]("C:\Users\DHEERAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 113104.png")
 
 ### Book Detail with AI Insights
-![Book Detail](screenshots/book_detail.png)
+![Book Detail]("C:\Users\DHEERAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 113338.png")
 
 ### Q&A Interface
-![QA](screenshots/qa.png)
+![QA]("C:\Users\DHEERAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 113522.png")
 
 ## Tech Stack
 - **Backend**: Django REST Framework, Python
