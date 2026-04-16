@@ -10,7 +10,7 @@ An AI-powered full-stack web application that scrapes book data and provides int
 ![Book Detail]("<img width="1286" height="960" alt="Image" src="https://github.com/user-attachments/assets/ba2f62e6-fdf7-408a-aa0a-2b81446dcd62" />g")
 
 ### Q&A Interface
-![QA]("C:\Users\DHEERAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 113522.png")
+![QA]("<img width="1487" height="960" alt="Image" src="https://github.com/user-attachments/assets/4da3d188-d180-4f9c-b4d4-7bd20da0bb5b" />")
 
 ## Tech Stack
 - **Backend**: Django REST Framework, Python
